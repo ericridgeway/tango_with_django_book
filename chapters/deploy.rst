@@ -56,7 +56,7 @@ Note the inclusion of ``(rango)`` compared to your previous command prompt. This
 	
 	/home/<username>/.virtualenvs/test/bin/pip
 
-Now we can customise our virtual environment by installing the required packages for our Rango application. Installing may take a considerable amount of time to install as your CPU time is limited - so have some patience. Issue the following two commands within your console:
+Now we can customise our virtual environment by installing the required packages for our Rango application. Installing may take a considerable amount of time to as your CPU time is limited - so have some patience. Issue the following two commands within your console:
 
 ::
 	
